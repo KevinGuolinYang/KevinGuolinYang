@@ -1,7 +1,7 @@
-Hi! l'm Kevin Yang.
-l am a student from Shanghai,China. 
-l'm very glad to meet you.
-Github is a wonderful platform.
-l can meet a lot of developers here.
+Hi!
+My name is Kevin Yang.
+l am a student from Shanghai, China.
+l know Github is a great platform.
+l can meet a lot of excellent developers here.
 We all love coding.
-Here must be a promising prospect.
+Well, CODING!!!
